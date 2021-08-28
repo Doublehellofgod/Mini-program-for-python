@@ -1,0 +1,6 @@
+print(id('A'))
+print(id('B'))
+print(id('C'))
+print(id('D'))
+print(id('E'))
+print(id('F'))
